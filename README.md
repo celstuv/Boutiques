@@ -1,5 +1,13 @@
 # Boutique de meuble
-TP - PHP
+
+Afin de visulaiser le TP : 
+Télécharger le dossier complet
+Dézipper le dossier "boutiques.zip" 
+Placer le dossier boutiques dans le dossier www de votre serveur Wamp ou Manp ou  Lamp
+Ouvrir votre serveur
+Taper dans la barre de navigation de Chrome ou Firefox : locahost/boutiques
+
+-----------------------------------------------------
 
 TP PHP initiation
 
